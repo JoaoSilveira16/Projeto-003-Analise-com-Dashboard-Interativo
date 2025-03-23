@@ -5,6 +5,7 @@ Este projeto tem como objetivo integrar dados de diferentes fontes para criar um
 Os dados utilizados neste projeto foram gerados manualmente para simular um problema real de gestão financeira e de desempenho organizacional. Dessa forma, conseguimos estruturar uma análise realista e aplicável a cenários empresariais. 
  
 Principais Etapas 
+
 ✅ Criação e Organização dos Dados 
  
 Os dados foram gerados manualmente e estruturados no Microsoft Excel para representar funcionários, departamentos e projetos. 
@@ -26,10 +27,14 @@ Construímos um painel interativo para visualizar orçamentos, desempenho de pro
 Implementamos filtros dinâmicos para permitir análises detalhadas. 
 As imagens dos funcionários foram geradas por inteligência artificial, sendo utilizadas no dashboard exclusivamente para fins estéticos e para melhorar a apresentação visual das informações. 
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas 
+
 🔹 Microsoft Excel – Estruturação inicial e organização dos dados. 
+
 🔹 PostgreSQL (DBeaver) – Gerenciamento e armazenamento dos dados. 
+
 🔹 Power BI – Construção de dashboards interativos e análise visual. 
+
 
 Resultado Final
 O projeto entrega um painel de controle intuitivo e interativo, permitindo que gestores tomem decisões estratégicas com base em dados organizados e atualizados. A análise revelou que o Departamento de Recursos Humanos está operando com prejuízo, tornando necessária a implementação de medidas corretivas para equilibrar os custos e garantir maior eficiência nessa área.
